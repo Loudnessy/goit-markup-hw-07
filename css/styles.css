@@ -221,6 +221,14 @@ overflow: auto;
 .mob-close-btn:focus {
     background-color: var(--fourth-color);
 }
+.portfolio-container {
+    width: 1158px;
+    max-width: 1158px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0 auto;
+}
+
 .mob-close-btn:focus .svg-close-btn {
 fill: #FFFFFF;
 }
